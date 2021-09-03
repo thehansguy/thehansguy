@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thehansguy
-- 👀 I’m interested in ... solving business problems using tech
+- 👀 I'm an advocate of project-based learning. 
 - 🌱 I’m currently learning ... the MERN stack
 - 💞️ I’m looking to collaborate on ... cool projects
 - 📫 How to reach me ... thehansguy@gmail.com
