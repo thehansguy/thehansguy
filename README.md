@@ -1,3 +1,5 @@
+<a href="https://app.daily.dev/thehansguy"><img src="https://api.daily.dev/devcards/816bb13d4a924d50b2b9fcc0dc17dfb4.png?r=dyf" width="400" alt="Hans Mills's Dev Card"/></a>
+
 - 👋 Hi, I’m @thehansguy
 - 👀 I'm an advocate of project-based learning. 
 - 🌱 I’m currently learning ... the MERN stack
