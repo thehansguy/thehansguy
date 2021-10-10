@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @thehansguy
 - 👀 I'm an advocate of project-based learning. 
-- 🌱 I’m currently learning ... the MERN stack
+- 🌱 I’m currently mastering ... React
 - 💞️ I’m looking to collaborate on ... cool projects
 - 📫 How to reach me ... thehansguy@gmail.com
 
