@@ -2,8 +2,8 @@
 
 - 👋 Hi, I’m @thehansguy
 - 👀 I'm an advocate of project-based learning. 
-- 🌱 I’m currently mastering ... React
-- 💞️ I’m looking to collaborate on ... cool projects
+- 🌱 I’m currently mastering ... Frontend Development
+- 💞️ I’m looking to collaborate on ... cool projects with learners
 - 📫 How to reach me ... thehansguy@gmail.com
 
 <!---
