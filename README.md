@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @thehansguy
 - 👀 I'm an advocate of project-based learning. 
 - 🌱 I’m currently mastering ... Backend Development
-- 🌱 I’m still mastering ... Frontend Development
+- 🌱 I’ve kinda mastered ... Frontend Development
 - 💞️ I’m looking to collaborate on ... cool projects with learners
 - 📫 How to reach me ... thehansguy@gmail.com
 
